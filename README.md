@@ -1,2 +1,2 @@
 # joguinho-cobrinha
-### lab digital innovatio one - especialista Gabriela Pinherio
+### lab digital innovation one - especialista Gabriela Pinherio
