@@ -12,6 +12,19 @@ Este projeto é uma recriação do clássico jogo da cobrinha (Snake Game) utili
 - CSS: Estilização do layout, cores e design.
 - JavaScript: Lógica do jogo, controle de movimentos e regras.
 
+## Como usar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/mariaandrezacs/gestor-tempo.git
+   ```
+2. Executar:
+   ```bash
+   Instale a extensão Live Server
+   Clique com o botão direito no index.html
+   Open with Live Server
+   ```
+
 ## Como Jogar
 1. Use as teclas de seta para movimentar a cobrinha.
 2. Colete a comida para ganhar pontos e aumentar o tamanho da cobrinha.
